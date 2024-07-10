@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @1atiaqjmoLEMbdTzZO9VNITTruBASVGH1
+- 👀 I’m interested in freenetwork
+- 🌱 I’m currently learning perl
